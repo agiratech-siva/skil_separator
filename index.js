@@ -105,7 +105,8 @@ console.log(array);
 
     }
     }
-
+    
+    input.value = "";
 
 
 })
